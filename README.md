@@ -1,6 +1,6 @@
 # Reserach_Agent_Project
 
-Here is a clean, structured, and professional **`README.md`** file based on your project details. You can copy and paste this directly into your GitHub repository.
+Sure! Here's your updated **`README.md`** with your **Google Colab link** added under a new **🔗 Try it on Colab** section:
 
 ---
 
@@ -78,6 +78,14 @@ pip install streamlit pyngrok requests transformers pillow
 
 ---
 
+## 🔗 Try it on Colab
+
+> 🚀 Click the link below to explore the working version of the project on Google Colab:
+
+[**🔍 Open AI Research Assistant in Colab**](https://colab.research.google.com/drive/1Yb0m6tr1t2dEZHqLVgGgnmq2B2OU8WKz?usp=sharing)
+
+---
+
 ## 📸 Result (Sample Output)
 
 > The Research Agent successfully retrieves scholarly articles and provides concise summaries:
@@ -128,4 +136,17 @@ The **AI Research Agent** effectively combines NLP, semantic search, and summari
 
 ---
 
+## 📌 Author
+
+Made with 💡 and 🔍 by \[Your Name]
+
+---
+
+```
+
+Let me know if you want:
+- Your actual name or GitHub handle added as the **author**
+- A badge like “Open in Colab” for visual appeal
+- A sample screenshot or demo GIF section added too
+```
 
