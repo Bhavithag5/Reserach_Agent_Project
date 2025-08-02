@@ -1,6 +1,6 @@
 # Reserach_Agent_Project
 
-Sure! Here's your updated **`README.md`** with your **Google Colab link** added under a new **🔗 Try it on Colab** section:
+
 
 ---
 
@@ -136,17 +136,5 @@ The **AI Research Agent** effectively combines NLP, semantic search, and summari
 
 ---
 
-## 📌 Author
 
-Made with 💡 and 🔍 by \[Your Name]
-
----
-
-```
-
-Let me know if you want:
-- Your actual name or GitHub handle added as the **author**
-- A badge like “Open in Colab” for visual appeal
-- A sample screenshot or demo GIF section added too
-```
 
