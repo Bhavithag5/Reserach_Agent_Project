@@ -128,13 +128,4 @@ The **AI Research Agent** effectively combines NLP, semantic search, and summari
 
 ---
 
-## 📌 Author
 
-Made with 💡 and 🔍 by \[Your Name]
-
----
-
-```
-
-Let me know if you'd like a logo, badge section, or a deployed Colab link added.
-```
