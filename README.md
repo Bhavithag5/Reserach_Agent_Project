@@ -86,14 +86,8 @@ pip install streamlit pyngrok requests transformers pillow
 
 ---
 
-## 📸 Result (Sample Output)
-
-> The Research Agent successfully retrieves scholarly articles and provides concise summaries:
-
-* Title: *AI in Healthcare*
-* Summary: *This paper explores the application of deep learning techniques in clinical diagnostics...*
-
-*(Image or screenshot can be added here)*
+## 📸 Result 
+The AI Research Assistant successfully helps users find and understand academic papers. When a user enters a research topic, the system fetches relevant papers from the Semantic Scholar API and summarizes them using an AI model. The results are shown in a clean web interface built with Streamlit. Each summary gives a quick and easy-to-read overview of the paper, making it easier for students and researchers to review multiple papers quickly without reading the full texts.
 
 ---
 
